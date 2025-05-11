@@ -27,7 +27,6 @@ jobs:
           - aarch64_cortex-a53
           - aarch64_cortex-a72
           - aarch64_generic
-          - x86_64
         sdk:
           - openwrt-22.03
           - SNAPSHOT
